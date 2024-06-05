@@ -13,4 +13,5 @@
 ### 2.Hafta Çalışmaları
 - print() fonksiyonu nedir, ne işe yarar ve yorum satırları
 - Değişkenler,tanımlama kuralları ve type() fonksiyonu
-- Veri türleri ve input() fonksiyonuyla input alma
+- Veri türleri ve input() fonksiyonuyla input 
+-Bu konularla ilgili uygulama
